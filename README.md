@@ -14,4 +14,4 @@
 
 
 - 替换后的文件
-![源文件](https://github.com/niezhiliang/itext-pdf-replace/blob/master/data/2.png)
+![源文件](./data/2.png)
