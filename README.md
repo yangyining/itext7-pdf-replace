@@ -10,7 +10,7 @@
 
 - 源文件
 
-![源文件](https://github.com/niezhiliang/itext-pdf-replace/blob/master/data/1.png)
+![源文件](./data/1.png)
 
 
 - 替换后的文件
